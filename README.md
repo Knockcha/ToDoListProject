@@ -19,6 +19,7 @@ CRUD(등록/조회/수정/삭제)와 완료 상태 토글 기능을 지원합니
 ---
 
 ## 🗂 프로젝트 구조
+```
 todo-console/
 ├─ src/
 │ ├─ todo/ → 메인 실행 (TodoApp)
@@ -28,7 +29,7 @@ todo-console/
 ├─ data/
 │ └─ tasks.tsv → 저장된 할 일 데이터
 └─ README.md → 프로젝트 설명 파일
-
+```
 ---
 
 ## ⚙ 주요 기능
